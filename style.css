@@ -1,0 +1,74 @@
+center{
+	background-color: #ffffff;
+	background-image: linear-gradient(180deg, #ffffff 0%, #69ff62 50%, #FF0000 100%);
+
+}
+.play{
+	height: 10px;
+	width: 10px;
+	border-radius: 10px;
+}
+.awa{
+	background-color: gold;
+}
+.bd{
+	border: dotted;
+	border-radius: 12px;
+}
+.can{
+	border: dotted;
+	border-radius: 12px;
+}
+.ind{
+	border: dotted;
+	border-radius: 12px;
+}
+.bot{
+	background-image: linear-gradient( 109.6deg,  rgba(204,0,0,1) 11.2%, rgba(68,0,0,1) 100.6% );
+}
+.fo2{
+	height: 50px;
+	background-color:#4169e1 ;
+	text-align: center;
+}
+.fo1{
+	height: 45px;
+	background-color: #1e90ff;
+	text-align: center;
+}
+
+
+
+
+.his{
+	height: 550px;
+	width: 350px;
+	border-radius: 7%;
+	border: dotted;
+}
+
+.his:hover{
+	background-color: lightgrey;
+}
+.time{
+	height: 550px;
+	width: 350px;
+	border-radius: 7%;
+	border: dotted;
+}
+
+.time:hover{
+	background-color: lightgreen;
+}
+.hi{
+	font-family: cursive;
+}
+.story{
+	height: 300;
+	width: 300;
+	border: solid;
+	border-radius: 10px;
+	background-color: #14ff00;
+	background-image: linear-gradient(45deg, #14ff00 0%, #e21212 50%, #09f517 100%);
+
+}
