@@ -27,18 +27,20 @@ center{
 	background-image: linear-gradient( 109.6deg,  rgba(204,0,0,1) 11.2%, rgba(68,0,0,1) 100.6% );
 }
 .fo2{
-	height: 50px;
-	background-color:#4169e1 ;
+	height: 60px;
+	background-color:gray;
 	text-align: center;
 }
 .fo1{
 	height: 45px;
-	background-color: #1e90ff;
+	background-color: black;
 	text-align: center;
 }
 
 
-
+#contact{
+	background-color: red;
+}
 
 .his{
 	height: 550px;
